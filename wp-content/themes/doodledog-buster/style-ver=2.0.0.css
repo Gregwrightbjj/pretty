@@ -933,13 +933,14 @@ Site Header
 
 .header-image .site-title a {
     background: url("images/logo@2x.png") no-repeat scroll center center transparent;
-    height: 170px;
+    height: 87px;
     left: 41%;
     margin: 0 auto 0 -85px;
     position: absolute;
     /*top: 20px;*/
     width: 400px;
     z-index: 9999;
+    background-size: 400px 100px;
 }
 
 /* Widget Area
